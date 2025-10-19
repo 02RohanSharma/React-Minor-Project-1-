@@ -1,16 +1,21 @@
-# React + Vite
+# React Minor Project 1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Overview  
+This project is built using React and Vite, and serves as a minor project to demonstrate a modern front-end application architecture.  
+The goal is to showcase usage of React components, state & props management, modern tooling (Vite), ESLint for code quality, and a well-structured folder layout.
 
-Currently, two official plugins are available:
+## 🎯 Purpose of the Project  
+- To build a clean, maintainable UI application using React + Vite.  
+- To apply best-practices in modern front-end development: fast bundling (via Vite), hot-module replacement, linting, and clear project structure.  
+- To serve as a base/template for further front-end expansions or as a learning project for React beginners.  
+- To demonstrate ability to set up a project from scratch (rather than using create-react-app boilerplate) and integrate the necessary tooling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies & Tools Used  
+- **React** – A JavaScript library for building user interfaces, used here for creating component-based UI.  
+- **Vite** – A build tool that provides ultra-fast development server and optimized build step.  
+- **ESLint** – For static code analysis and enforcing code style/quality.  
+- **JavaScript (ES6+)** – Modern JavaScript syntax is used throughout the codebase.  
+- **HTML & CSS** – Basic markup and styling for the UI (you can extend to SCSS/Styled-Components etc.).  
+- **Node.js and npm / yarn** – For managing dependencies, scripts, and the build process.
 
-## React Compiler
-
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧩 Project Structure (example)  
