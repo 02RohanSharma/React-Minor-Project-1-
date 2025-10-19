@@ -17,5 +17,3 @@ The goal is to showcase usage of React components, state & props management, mod
 - **JavaScript (ES6+)** – Modern JavaScript syntax is used throughout the codebase.  
 - **HTML & CSS** – Basic markup and styling for the UI (you can extend to SCSS/Styled-Components etc.).  
 - **Node.js and npm / yarn** – For managing dependencies, scripts, and the build process.
-
-## 🧩 Project Structure (example)  
